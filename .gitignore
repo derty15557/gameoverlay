@@ -1,0 +1,10 @@
+bin/
+obj/
+*.user
+*.suo
+.vs/
+publish/
+output/
+*.exe
+*.dll
+*.pdb
